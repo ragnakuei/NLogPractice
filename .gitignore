@@ -1,0 +1,10 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/NLogPractice
+/.idea/.idea.NLogPractice
+/NLogPractice/bin/Debug/netcoreapp2.1
+/NLogPractice/obj
+/ClassLibrary/bin/Debug
+/ClassLibrary/obj/Debug
